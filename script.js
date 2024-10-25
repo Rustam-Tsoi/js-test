@@ -1,5 +1,8 @@
-// console.log("myVar:", myVar);
 {
-  var myVar = 10;
+  const myVar = 10;
+  console.log("myVar:", myVar);
 }
-console.log("myVar:", myVar);
+
+const a = 1;
+let b = 2;
+let c;
