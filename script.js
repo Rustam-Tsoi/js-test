@@ -1,8 +1,6 @@
-{
-  const myVar = 10;
-  console.log("myVar:", myVar);
-}
-
-const a = 1;
-let b = 2;
-let c;
+let money;
+let income;
+let addExpenses;
+let deposit;
+let mission;
+let period;
